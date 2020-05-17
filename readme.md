@@ -1,3 +1,7 @@
+Test suite that covers the main functionalities of a automation practice oriented site: automationpractice.com
+
+Done in RobotFramework/Python
+
 **Installation guide and test running**
 
 1- Verify if python is installed
